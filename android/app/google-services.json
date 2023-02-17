@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186581303939",
+    "project_id": "revampassignment",
+    "storage_bucket": "revampassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186581303939:android:4775faf117c148e5a351b6",
+        "android_client_info": {
+          "package_name": "com.revampassign.revamp_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186581303939-b58i7ff9b7v5cffh9c5dde0q7cmbrleq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdX83bvsLw7JUZrjzU0NEwncIT8-2GBWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186581303939-b58i7ff9b7v5cffh9c5dde0q7cmbrleq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
